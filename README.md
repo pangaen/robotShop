@@ -8,4 +8,5 @@ Development Environment Requirements:
         - NVM
             - Windows Version : https://github.com/coreybutler/nvm-windows
             - MAC : curl -o- https://rawgithubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+ 
  - Install the Angular CLI
